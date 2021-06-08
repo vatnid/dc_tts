@@ -33,7 +33,7 @@ class Hyperparams:
 
     # data
     # data = "/Users/vatnid/Desktop/Dokument/Skole/04 MSc/Dissertation/LJSpeech-1.1"
-    data = "../yiddish-tts/ashtetl"
+    data = "/home/s2122322/yiddish-tts/ashtetl"
     # test_data = "harvard_sentences.txt"
     test_data = "yid_test.txt"
     # vocab = "PE abcdefghijklmnopqrstuvwxyz'.?" # P: Padding, E: EOS.
